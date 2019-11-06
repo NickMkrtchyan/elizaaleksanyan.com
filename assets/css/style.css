@@ -905,7 +905,7 @@ h1.section-title::after {
 
 .modal-body iframe {
     width: 100%!important;
-    height: auto!important;
+    height: 450px!important;
 }
 
 .modal-body p {
