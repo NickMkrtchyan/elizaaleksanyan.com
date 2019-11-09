@@ -66,8 +66,8 @@ Version      : 1.0
 		
 			/*START TESTIMONIAL*/
 			$("#testimonial-slider").owlCarousel({
-				items:1,
-				itemsDesktop:[1000,1],
+				items:2,
+				itemsDesktop:[1000,2],
 				itemsDesktopSmall:[979,1],
 				itemsTablet:[768,1],
 				pagination:true,
